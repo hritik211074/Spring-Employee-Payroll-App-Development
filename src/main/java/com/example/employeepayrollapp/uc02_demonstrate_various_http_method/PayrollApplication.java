@@ -10,4 +10,5 @@ public class PayrollApplication {
         // This will start the Spring Boot application
         SpringApplication.run(PayrollApplication.class, args);
     }
+
 }

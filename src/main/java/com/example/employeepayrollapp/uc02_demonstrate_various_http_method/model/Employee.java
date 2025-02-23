@@ -4,7 +4,6 @@ import javax.persistence.Id;
 
 @Entity
 public class Employee {
-
     @Id
     private long id;
     private String name;
